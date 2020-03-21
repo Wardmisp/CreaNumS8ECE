@@ -5,3 +5,7 @@ The project is about **data visualization on Teamfight Tactics**, a strategy gam
 Data visualization is the process of transforming massive and complex data into simple graphical objects such as curves, points, charts, maps and more. 
 
 The idea is to be able to **retrieve the data** from a Teamfight Tactics game via their **programming interface** and then succeed in creating various **meaningful graphical representations** to help the player win the game. The data from Teamfight Tactics is quite complex and rather in large quantities in the form of a JSON file. This file is difficult to interpret, which is why the use of **data visualization** is necessary in order to obtain not raw information, but rather a visualization of the data that will be creative and aesthetically pleasing. 
+
+
+## Contributors
+* [@James88wang](https://github.com/James88wang) 💻🐛
