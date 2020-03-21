@@ -9,3 +9,4 @@ The idea is to be able to **retrieve the data** from a Teamfight Tactics game vi
 
 ## Contributors
 * [@James88wang](https://github.com/James88wang) 💻🐛
+* [@Wardmisp](https://github.com/Wardmisp) 💻🐛
