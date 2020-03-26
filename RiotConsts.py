@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 11 20:00:42 2020
+
+@author: Rémi
+"""
+
 URL = {
        'base' : 'https://{proxy}.api.riotgames.com/tft/{url}',
        'base_cont' : 'https://europe.api.riotgames.com/tft/{url}',
