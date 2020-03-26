@@ -1,4 +1,3 @@
-![GitHub Logo](/images/logoece.jpg)
 # Mineure Création Numérique - ECE
 
 The project is about **data visualization on Teamfight Tactics**, a strategy game developed by League of Legends. Confucius quoted, "A picture is worth a thousand words" when no technology existed at that time. His quotation is even more obvious today with the increasing arrival of mountains of data. 
